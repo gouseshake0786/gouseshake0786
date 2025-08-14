@@ -9,8 +9,9 @@
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** Angular, JavaScript, HTML5, CSS3
-- **Backend:**  Java
+- **Languages:** C#, Java, C
+- **Frameworks:** ASP.NET Core, REST APIs, Angular, .NET
+- **Tools::** Azure, Git, Jenkins, Visual Studio
 - **Database:** SQLDb, PostgreSQL
 - **Cloud & DevOps:** AWS, AZURE, Jenkins, CI/CD
 - **Tools:** Git, JIRA, REST APIs, Agile/Scrum
@@ -18,9 +19,8 @@
 ---
 
 ### 📈 Currently Learning
-- Kubernetes & Container Orchestration
+- Data Structures and Algorithms
 - System Design & Scalability
-- Event-Driven Architectures
 
 ---
 
